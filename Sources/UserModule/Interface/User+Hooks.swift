@@ -1,11 +1,4 @@
-//
-//  File.swift
-//  
-//
-//  Created by Tibor Bodecs on 2022. 03. 27..
-//
-
-import Feather
+import FeatherCore
 
 public extension HookName {
     static let installUserRoles: HookName = "install-user-roles"

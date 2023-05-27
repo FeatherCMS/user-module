@@ -1,11 +1,4 @@
-//
-//  File.swift
-//  
-//
-//  Created by Tibor Bodecs on 2022. 02. 23..
-//
-
-import Feather
+import FeatherCore
 
 /// user module factory
 public struct UserModuleFactory {

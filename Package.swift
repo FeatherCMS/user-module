@@ -10,14 +10,16 @@ let package = Package(
         .library(name: "UserModule", targets: ["UserModule"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/feathercms/feather-core", .branch("dev")),
-        .package(url: "https://github.com/feathercms/user-objects", .branch("main")),
+		.package(path: "../feather-core"),
+//        .package(url: "https://github.com/feathercms/feather-core", .branch("dev")),
+//        .package(url: "https://github.com/feathercms/user-objects", .branch("main")),
+			.package(path: "../user-objects"),
     ],
     targets: [
         .target(name: "UserModule",
                 dependencies: [
                     .product(name: "UserObjects", package: "user-objects"),
-                    .product(name: "Feather", package: "feather-core"),
+                    .product(name: "FeatherCore", package: "feather-core"),
                 ],
                 resources: [
 //                    .copy("Bundle"),
