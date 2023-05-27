@@ -38,15 +38,6 @@
         }
       },
       {
-        "package": "feather-objects",
-        "repositoryURL": "https://github.com/feathercms/feather-objects",
-        "state": {
-          "branch": "main",
-          "revision": "169386ce3bf664fa768186467e4aec1caaee0fcf",
-          "version": null
-        }
-      },
-      {
         "package": "fluent",
         "repositoryURL": "https://github.com/vapor/fluent",
         "state": {
