@@ -29,6 +29,15 @@
         }
       },
       {
+        "package": "feather-core",
+        "repositoryURL": "https://github.com/Rando-Coderissian/feather-core",
+        "state": {
+          "branch": "test-refactored-modules",
+          "revision": "7a352c919180a9c6f05bc05f1ba86936d8d11e56",
+          "version": null
+        }
+      },
+      {
         "package": "feather-icons",
         "repositoryURL": "https://github.com/feathercms/feather-icons",
         "state": {
@@ -242,6 +251,15 @@
           "branch": null,
           "revision": "0a5bc04095a675662cf24757cc0640aa2204253b",
           "version": "1.0.2"
+        }
+      },
+      {
+        "package": "user-objects",
+        "repositoryURL": "https://github.com/Rando-Coderissian/user-objects",
+        "state": {
+          "branch": "test-refactor-modules",
+          "revision": "ac2fa6f42b5f17c12202e9f0cdab1eb4f5913743",
+          "version": null
         }
       },
       {
