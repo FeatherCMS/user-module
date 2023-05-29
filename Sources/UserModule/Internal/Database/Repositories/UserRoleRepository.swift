@@ -5,7 +5,7 @@
 //  Created by Tibor Bodecs on 2022. 02. 28..
 //
 
-import Feather
+import FeatherCore
 import Vapor
 import Fluent
 import FeatherObjects

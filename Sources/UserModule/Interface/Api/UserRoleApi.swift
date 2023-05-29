@@ -1,12 +1,5 @@
-//
-//  File.swift
-//  
-//
-//  Created by Tibor Bodecs on 2022. 02. 28..
-//
-
 import Foundation
-import Feather
+import FeatherCore
 import UserObjects
 
 public struct UserRoleApi {

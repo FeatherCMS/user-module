@@ -6,7 +6,7 @@
 //
 
 import SwiftSgml
-import Feather
+import FeatherCore
 
 public protocol UserModuleTemplate: FeatherTemplate {
     func login(_ context: UserLoginContext) -> AbstractTemplate<UserLoginContext>

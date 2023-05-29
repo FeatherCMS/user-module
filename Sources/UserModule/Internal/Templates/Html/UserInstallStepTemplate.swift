@@ -6,7 +6,7 @@
 //
 
 import Vapor
-import Feather
+import FeatherCore
 import SwiftHtml
 
 final class UserInstallStepTemplate: AbstractTemplate<UserInstallStepContext> {

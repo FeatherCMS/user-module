@@ -1,13 +1,6 @@
-//
-//  File.swift
-//  
-//
-//  Created by Tibor Bodecs on 2021. 11. 23..
-//
-
 import Vapor
 import Fluent
-import Feather
+import FeatherCore
 import FeatherObjects
 import UserObjects
 
