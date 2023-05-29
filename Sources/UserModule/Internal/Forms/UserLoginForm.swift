@@ -6,7 +6,7 @@
 //
 
 import Vapor
-import Feather
+import FeatherCore
 
 final class UserLoginForm: AbstractForm {
 

@@ -1,10 +1,3 @@
-//
-//  File.swift
-//  
-//
-//  Created by Tibor Bodecs on 2022. 03. 15..
-//
-
 import Foundation
 
 public struct UserConfig {

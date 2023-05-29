@@ -7,7 +7,7 @@
 
 import Vapor
 import Fluent
-import Feather
+import FeatherCore
 import UserObjects
 
 extension User.Invitation.List: Content {}

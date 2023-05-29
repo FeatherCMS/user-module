@@ -5,7 +5,7 @@
 //  Created by Tibor Bodecs on 2021. 12. 23..
 //
 
-import Feather
+import FeatherCore
 
 public struct UserLoginContext {
     public let title: String

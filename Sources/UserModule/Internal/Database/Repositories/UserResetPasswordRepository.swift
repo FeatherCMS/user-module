@@ -7,7 +7,7 @@
 
 import Vapor
 import Fluent
-import Feather
+import FeatherCore
 
 struct UserResetPasswordRepository: FeatherModelRepository {
     typealias DatabaseModel = UserResetPasswordModel

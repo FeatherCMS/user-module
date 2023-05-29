@@ -6,7 +6,7 @@
 //
 
 import SwiftSgml
-import Feather
+import FeatherCore
 
 public struct UserInvitationContext {
     public let title: String
